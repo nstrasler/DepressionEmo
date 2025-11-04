@@ -91,6 +91,6 @@ python seq2seq.py --mode "test" --model_name "facebook/bart-base" --model_path "
 
 # Contact
 Please feel free to ask or discuss with us.
-* Email: <del>abubakarsiddiqurra@unomaha.edu</del> abu.rahman@hamptonu.edu
+* Email: abu.rahman@hamptonu.edu
 * Email: tahoangthang@gmail.com
 
