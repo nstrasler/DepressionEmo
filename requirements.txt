@@ -1,0 +1,15 @@
+torch
+transformers
+numpy
+matplotlib
+spacy
+pandas
+scipy
+seaborn
+sklearn
+datasets
+lightgbm
+nltk
+evaluate
+huggingface_hub
+xgboost
